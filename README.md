@@ -10,33 +10,34 @@ Comparison between cars and two-wheelers
 # Types of Vehicles:
 
 Cars
+
 Two & Three-Wheelers (mainly focusing on two-wheelers)
 
 # Key Parameters:
 
-1.EV Sales
-2.EV Stock
-3.EV Sales Share
-4.EV Stock Share
-5.Powertrain Types (BEV, PHEV, FCEV)
+1. EV Sales
+2. EV Stock
+3. EV Sales Share
+4. EV Stock Share
+5. Powertrain Types (BEV, PHEV, FCEV)
 
 # Visualizations
 
 The project includes the following visual plots:
-1.BEV, PHEV, FCEV Sales Over Time (Cars & Two-Wheelers)
-2.Total Sales vs Total Stock (Cars & Two-Wheelers)
-3.BEV Stock vs Sales Growth
-4.Cars vs Two-Wheelers Comparison (Sales & Stock)
-5.These visualizations help understand how EV adoption has evolved and where it's heading globally.
+1. BEV, PHEV, FCEV Sales Over Time (Cars & Two-Wheelers)
+2. Total Sales vs Total Stock (Cars & Two-Wheelers)
+3. BEV Stock vs Sales Growth
+4. Cars vs Two-Wheelers Comparison (Sales & Stock)
+5. These visualizations help understand how EV adoption has evolved and where it's heading globally.
 
 
 # Tools & Technologies Used
 
-1.Python 3
-2.Pandas
-3.NumPy
-4.Plotly (for interactive visualization)
-5.Matplotlib (for legacy plotting)
+1. Python 3
+2. Pandas
+3. NumPy
+4. Plotly (for interactive visualization)
+5. Matplotlib (for legacy plotting)
 
 
 Two-wheelers dominate global BEV sales due to affordability and urban mobility demands.
@@ -59,7 +60,7 @@ jupyter notebook
 Make sure the required CSV datasets are in the correct folders (EV Data/Global/ etc.)
 
 
-#Folder Structure
+# Folder Structure
 ```
 ev-global-market-analysis/
 ├── EV_Global_Market_Analysis.ipynb
